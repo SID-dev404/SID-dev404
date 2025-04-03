@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Indra and I'm a Front-End developer</h2>
+<h2 align="center">Hi 👋! My name is Indra and I'm a Front-End developer</h2>
 
 ###
 
